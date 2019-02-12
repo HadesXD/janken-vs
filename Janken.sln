@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Janken", "Janken\Janken.csproj", "{912B215E-A8C1-47A3-8F98-74D963E995E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class", "Class\Class.csproj", "{46332B34-02AD-42AD-BD47-8522BCD487E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{912B215E-A8C1-47A3-8F98-74D963E995E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912B215E-A8C1-47A3-8F98-74D963E995E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912B215E-A8C1-47A3-8F98-74D963E995E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912B215E-A8C1-47A3-8F98-74D963E995E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46332B34-02AD-42AD-BD47-8522BCD487E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46332B34-02AD-42AD-BD47-8522BCD487E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46332B34-02AD-42AD-BD47-8522BCD487E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46332B34-02AD-42AD-BD47-8522BCD487E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70603F90-AC2F-42F1-939A-105CC20499B5}
+	EndGlobalSection
+EndGlobal

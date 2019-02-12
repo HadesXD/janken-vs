@@ -1,0 +1,25 @@
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Janken\Janken\obj\Debug\Janken.csprojResolveAssemblyReference.cache
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Janken\Janken\obj\Debug\Janken.MainMenu.resources
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Janken\Janken\obj\Debug\Janken.Properties.Resources.resources
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Janken\Janken\obj\Debug\Janken.csproj.GenerateResource.Cache
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Janken\Janken\obj\Debug\Janken.csproj.CoreCompileInputs.cache
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Janken\Janken\bin\Debug\Janken.exe.config
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Janken\Janken\bin\Debug\Janken.exe
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Janken\Janken\bin\Debug\Janken.pdb
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Janken\Janken\bin\Debug\Class.dll
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Janken\Janken\bin\Debug\Class.pdb
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Janken\Janken\obj\Debug\Janken.exe
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Janken\Janken\obj\Debug\Janken.pdb
+D:\dotnet\Janken\Janken\bin\Debug\Janken.exe.config
+D:\dotnet\Janken\Janken\bin\Debug\Janken.exe
+D:\dotnet\Janken\Janken\bin\Debug\Janken.pdb
+D:\dotnet\Janken\Janken\bin\Debug\Class.dll
+D:\dotnet\Janken\Janken\bin\Debug\Class.pdb
+D:\dotnet\Janken\Janken\obj\Debug\Janken.csprojAssemblyReference.cache
+D:\dotnet\Janken\Janken\obj\Debug\Janken.MainMenu.resources
+D:\dotnet\Janken\Janken\obj\Debug\Janken.Properties.Resources.resources
+D:\dotnet\Janken\Janken\obj\Debug\Janken.csproj.GenerateResource.cache
+D:\dotnet\Janken\Janken\obj\Debug\Janken.csproj.CoreCompileInputs.cache
+D:\dotnet\Janken\Janken\obj\Debug\Janken.csproj.CopyComplete
+D:\dotnet\Janken\Janken\obj\Debug\Janken.exe
+D:\dotnet\Janken\Janken\obj\Debug\Janken.pdb

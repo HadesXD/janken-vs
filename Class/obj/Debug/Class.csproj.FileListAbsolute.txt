@@ -1,0 +1,12 @@
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Janken\Class\bin\Debug\Class.dll
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Janken\Class\bin\Debug\Class.pdb
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Janken\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Janken\Class\obj\Debug\Class.dll
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Janken\Class\obj\Debug\Class.pdb
+C:\Users\theph\OneDrive\Dokumenti\Visual Studio 2017\Projects\Janken\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+D:\dotnet\Janken\Class\bin\Debug\Class.dll
+D:\dotnet\Janken\Class\bin\Debug\Class.pdb
+D:\dotnet\Janken\Class\obj\Debug\Class.csprojAssemblyReference.cache
+D:\dotnet\Janken\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+D:\dotnet\Janken\Class\obj\Debug\Class.dll
+D:\dotnet\Janken\Class\obj\Debug\Class.pdb
