@@ -1,8 +1,8 @@
-# JanKen (eng. Rock-Papper-Scissors) App game
-A simple rock-papper-scissors Windows Form App game made with VS while also using OOP. <br/>
-The goal was to learn Object-Orianted Programming.
+# Rock, Paper, Scissors Game - Visual Studio 2015
+This was one of my first every games that I made within Visual Studio. It's pretty old now.
 
-<b>Used:</b>
-- language: C#
-- framework: .NET
-- IDE: Visual Studio 2017
+<ul>
+  <li><b>Date:</b> January 2016</li>
+  <li><b>Languages:</b> C#</li>
+  <li><b>IDE:</b> Visual Studio 2015</li>
+</ul>
