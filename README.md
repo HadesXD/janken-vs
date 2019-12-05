@@ -1,5 +1,5 @@
 # Rock, Paper, Scissors Game - Visual Studio 2015
-This was one of my first every games that I made within Visual Studio. It's pretty old now.
+A rock, paper, scissors game I made for my High School subject.
 
 <ul>
   <li><b>Date:</b> January 2016</li>
